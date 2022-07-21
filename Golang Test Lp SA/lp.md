@@ -7,5 +7,5 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-  - Test Golang Channels 1
-title: Golang Test Lp SA 1
+  - Test Golang Channels
+title: Golang Test Lp SA
