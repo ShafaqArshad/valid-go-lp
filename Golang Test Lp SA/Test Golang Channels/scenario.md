@@ -1,4 +1,4 @@
-title: Test Golang Channels 1
+title: Test Golang Channels
 description: Learn the basics of Goroutines.
 time: 15 minutes
 level: intermediate
