@@ -8,4 +8,5 @@ license: Apache
 scenarioCount: 1
 scenarios:
   - Test Golang Channels 1
+  - Test Golang Channels 10
 title: Golang Test Lp SA 1
