@@ -7,6 +7,7 @@ isAvailable: true
 isNew: true
 steps:
 - step1.md
+- https://thumbs.dreamstime.com/b/purple-flower-2212075.jpg
 - step2.md
 - step3.md
 - step4.md
