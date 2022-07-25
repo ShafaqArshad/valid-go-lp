@@ -5,3 +5,5 @@ level: intermediate
 isPremium: true
 isAvailable: true
 isNew: true
+steps:
+- step1.md
