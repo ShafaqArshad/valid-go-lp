@@ -1,2 +1,3 @@
 title: Test Golang Channels 1
-Description: Learn the basics of Goroutines.
+description: Learn the basics of Goroutines.
+time: 15 minutes
