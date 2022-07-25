@@ -7,5 +7,5 @@ isNew: true
 license: Apache
 scenarioCount: 1
 scenarios:
-   - Test Golang Channels 1
+   - Test Golang Channels New
 title: Golang Test Lp SA New
