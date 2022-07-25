@@ -1,4 +1,4 @@
-title: Test Go Channels new
+title: Test Go Channels New
 description: Learn the basics of Goroutines.
 time: 15 minutes
 level: intermediateer
