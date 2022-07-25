@@ -4,4 +4,4 @@ time: 15 minutes
 level: intermediateer
 isPremium: true
 isAvailable: true
-isnew: false
+isNew: false
